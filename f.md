@@ -14,6 +14,8 @@
 
 #### 永久域名：[**fkwall.com**](http://fkwall.com)（已被墙，需要开启全局代理访问。）
 
+#### 永久域名：[fkwall.com](http://fkwall.com)（已被墙，需要开启全局代理访问。）
+
 ### 联系我们
 
 > 邮箱：five5mu@gmail.com
