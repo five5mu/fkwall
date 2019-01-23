@@ -12,7 +12,7 @@
 > 3. 我们会在上面表格持续更新备用地址，防走丢，请收藏本链接！
 > 4. 防走丢：https://github.com/five5mu/fkwall/blob/f/f.md
 
-#### 永久域名：fkwall.com（已被墙，需要开启全局代理访问。）
+#### 永久域名：[fkwall.com](http://fkwall.com)（已被墙，需要开启全局代理访问。）
 
 ### 联系我们
 
