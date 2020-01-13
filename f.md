@@ -4,7 +4,10 @@
 
 #### 💗永久域名：[FKwall.com](http://fkwall.com)（已被墙，需要开启全局代理访问。）
 
-##### 临时地址：https://tmp.fkwall-tmp1.xyz
+|  id  | 临时地址  | url |
+| :----: | :----: | :----: |
+| 1 | 临时地址1 | https://tmp.fkwall-tmp1.xyz |
+| 2 | 临时地址2 | ... |
 
 ### 说明
 
