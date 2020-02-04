@@ -1,6 +1,6 @@
 # FKwall
 
-### 佛跳墙
+### 
 
 #### 💗永久域名：[FKwall.com](http://fkwall.com)（已被墙，需要开启全局代理访问。）
 
