@@ -6,7 +6,7 @@
 
 |  id  | 临时地址  | url |
 | :----: | :----: | :----: |
-| 1 | 临时地址1 | https://tmp.hxingss-tmp1.xyz |
+| 1 | 临时地址1 | https://v2.hxingss-tmp1.xyz |
 | 2 | 临时地址2 | ... |
 
 ### 说明
