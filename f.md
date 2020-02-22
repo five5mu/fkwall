@@ -7,7 +7,7 @@
 |  id  | 临时地址  | url |
 | :----: | :----: | :----: |
 | 1 | 临时地址1 | https://user.hxing71.xyz |
-| 2 | 临时地址2 | http://user.fkwall71.xyz |
+| 2 | 临时地址2 | https://user.fkwall71.xyz |
 
 ### 说明
 
