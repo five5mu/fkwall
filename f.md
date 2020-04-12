@@ -4,10 +4,8 @@
 
 #### 💗永久域名：[FKwall.com](http://fkwall.com)（已被墙，需要开启全局代理访问。）
 
-|  id  | 临时地址  | url |
-| :----: | :----: | :----: |
-| 1 | 临时地址1 | https://user.hxing71.xyz |
-| 2 | 临时地址2 | https://user.fkwall71.xyz |
+###导航页：
+http://fkwall.github.io/
 
 ### 说明
 
